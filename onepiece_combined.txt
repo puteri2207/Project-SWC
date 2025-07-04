@@ -1,0 +1,100 @@
+CM001|Monkey D. Luffy|Straw Hat Pirates|MIS001|Treasure Hunt|4|2025-07-22|2 days|5000
+CM002|Roronoa Zoro|Kuja Pirates|MIS002|Sword Duel|3|2023-12-07|3 days|4500
+CM003|Usopp|Sun Pirates|MIS003|Sniper Escort|3|2021-09-18|5 days|8500
+CM004|Sanji|Kuja Pirates|MIS004|Chef Contest|1|2020-01-01|1 day|2500
+CM001|Monkey D. Luffy|Straw Hat Pirates|MIS005|Marine Battle|5|2025-03-21|3 days|8000
+CM006|Tony Chopper|Heart Pirates|MIS006|Medical Aid|2|2019-05-30|1 day|3500
+CM007|Nico Robin|Kid Pirates|MIS007|Ruin Exploration|3|2020-03-20|3 days|6000
+CM002|Roronoa Zoro|Kuja Pirates|MIS008|Rescue Mission|3|2025-02-15|2 days|4000
+CM003|Usopp|Sun Pirates|MIS009|Ship Repair|2|2021-07-08|1 day|2800
+CM006|Tony Chopper|Heart Pirates|MIS010|Music Show|1|2019-08-07|2 days|2000
+CM011|Jinbe|Kuja Pirates|MIS011|Underwater Rescue|4|2018-06-09|3 days|4700
+CM003|Usopp|Sun Pirates|MIS012|Medical Support|2|2017-12-31|2 days|5000
+CM013|Sanji|Kuja Pirates|MIS013|Undercover Infiltration|4|2022-05-04|2 days|7000
+CM014|Shachi|Heart Pirates|MIS014|Medical Supply|3|2025-11-11|2 days|5000
+CM015|Van Augur|Blackbeard Pirates|MIS015|Long-Range Surveillance|3|2025-09-13|2 days|4700
+CM016|Portgas D. Ace|Whitebeard Pirates|MIS016|Fire Assault|5|2019-12-04|2 days|9000
+CM009|Franky|Straw Hat Pirates|MIS017|Weapon Blueprint Recovery|3|2018-04-13|4 days|5500
+CM011|Jinbe|Kuja Pirates|MIS018|Target Tracking|2|2020-01-30|1 day|3500
+CM019|Nami|Straw Hat Pirates|MIS019|Map Recovery|2|2021-08-19|1 day|3000
+CM003|Usopp|Sun Pirates|MIS020|High-Value Escort|4|2024-07-19|2 days|6800
+CM021|Bepo|Heart Pirates|MIS021|Arctic Patrol|3|2023-03-15|2 days|4600
+CM003|Usopp|Sun Pirates|MIS022|Cipher Text Decoding|4|2024-08-22|3 days|7100 
+CM023|Killer|Kid Pirates|MIS023|Assassination Contract|5|2020-12-09|1 day|8800
+CM011|Jinbe|Kuja Pirates|MIS024|Stealth Assassination|5|2024-12-20|3 days|5000
+CM021|Bepo|Heart Pirates|MIS025|Devil Fruit Hunt|4|2024-10-10|2 days|9500
+CM026|Bartolomeo|Barto Club|MIS026|Territory Defense|3|2025-09-01|2 days|3000
+CM021|Bepo|Heart Pirates|MIS027|Duel Challenge|4|2025-09-02|3 days|4000
+CM028|Sai|Happo Navy|MIS028|Internal Rebellion|2|2025-09-03|2 days|2500
+CM011|Jinbe|Kuja Pirates|MIS029|Boxing Tournament|3|2025-09-04|1 days|3500
+CM021|Bepo|Heart Pirates|MIS030|Rescue Operation|4|2025-09-05|2 days|4500
+CM003|Usopp|Sun Pirates|MIS031|Sea Monster Hunt|5|2025-09-06|4 days|6000
+CM021|Bepo|Heart Pirates|MIS032|Map Expansion|3|2025-09-07|3 days|4000
+CM033|BabyGen|Donquixote Pirates|MIS033|Weapon Smuggling|2|2025-09-08|2 days|3000
+CM011|Jinbe|Kuja Pirates|MIS034|Tarot Recon Mission|4|2025-09-09|3 days|5000
+CM021|Bepo|Heart Pirates|MIS035|Infiltration Mission|5|2025-09-10|2 days|5500
+CM036|Scratchmen Apoo|On Air Pirates|MIS036|Soundwave Assault|3|2025-09-11|2 days|4500
+CM037|X Broke|Drake Pirates|MIS037|Undercover Spy Ops|4|2025-09-12|3 days|5000
+CM028|Sai|Happo Navy|MIS038|Food Heist|2|2025-09-13|2 days|3500
+CM039|Urouge|Fallen Monk Pirates|MIS039|Sky Island Raid|4|2025-09-14|3 days|5000
+CM011|Jinbe|Kuja Pirates|MIS040|Scouting Mission|2|2025-09-15|1 days|3000
+CM041|Pedro|Musketeer Squad|MIS041|Night Infiltration|3|2025-09-16|2 days|4000
+CM028|Sai|Happo Navy|MIS042|Chocolate Island Escort|1|2025-09-17|1 days|2000
+CM003|Usopp|Big Mom Pirates|MIS043|Future Sight Patrol|5|2025-09-18|3 days|7000
+CM044|Charlotte Smoothie|Big Mom Pirates|MIS044|Juice Extraction Ops|4|2025-09-19|2 days|6000
+CM045|King|Beast Pirates|MIS045|Aerial Recon|4|2025-09-20|2 days|5500
+CM028|Sai|Happo Navy|MIS046|Torture Interrogation|3|2025-09-21|2 days|4800
+CM047|Jack|Beast Pirates|MIS047|Elephant Cavalry Raid|5|2025-09-22|3 days|6500
+CM068|Iris|Beast Pirates|MIS048|Yonko Battle Drill|5|2025-09-23|4 days|9000
+CM049|Kurozumi Orochi|Wano Shogunate|MIS049|Shogun Parade|1|2025-09-24|1 days|2000
+CM003|Usopp|Heart Pirates|MIS050|Room Extraction Mission|5|2025-09-25|3 days|7500
+CM051|Gin|Krieg Pirates|MIS051|Island Sabotage|3|2025-10-01|2 days|3900
+CM068|Iris|Alvida Pirates|MIS052|Anchor Retrieval|2|2025-10-02|1 day|2100
+CM053|Don Kriss|Krieg Pirates|MIS053|Poison Gas Deployment|4|2025-10-03|2 days|4800
+CM054|Tilda|Wapol Pirates|MIS054|Metal Theft|3|2025-10-04|3 days|4300
+CM028|Sai|Happo Navy|MIS055|Desert Fortress Seizure|5|2025-10-05|4 days|8700
+CM056|Bon Clay|Baroque Works|MIS056|Identity Swap Operation|3|2025-10-06|2 days|3600
+CM057|Miss Goldenweek|Baroque Works|MIS057|Candle Trap Setup|2|2025-10-07|2 days|2500
+CM028|Sai|Happo Navy|MIS058|Ghost Surveillance|4|2025-10-08|2 days|4900
+CM059|Gecko Moria|Thriller Bark Pirates|MIS059|Shadow Extraction|5|2025-10-09|3 days|7000
+CM060|Illari|Thriller Bark Pirates|MIS060|Corpse Reanimation|3|2025-10-10|2 days|4200
+CM061|Enel|Skypiea Army|MIS061|Sky Drum Defense|5|2025-10-11|3 days|9500
+CM068|Iris|Beast Pirates|MIS062|Cloud Barrier Creation|4|2025-10-12|2 days|4700
+CM063|Foxy|Foxy Pirates|MIS063|Davy Back Game Heist|2|2025-10-13|1 day|3300
+CM064|Rika|Revolutionary Army|MIS064|Bible Shield Test|4|2025-10-14|3 days|6200
+CM060|Illari|Thriller Bark Pirates|MIS065|Hormone Reinforcement Drill|3|2025-10-15|2 days|5800
+CM066|Noah|Revolutionary Army|MIS066|Dragon’s Orders Execution|5|2025-10-16|4 days|8900
+CM068|Iris|Beast Pirates|MIS067|Peace Summit Protection|4|2025-10-17|3 days|7600
+CM044|Charlotte Smoothie|Big Mom Pirates|MIS068|Supply Ship Guarding|2|2025-10-18|2 days|3900
+CM069|Felix|Blackbeard Pirates|MIS069|Contagion Testing|3|2025-10-19|2 days|4600
+CM016|Portgas D. Ace|Whitebeard Pirates|MIS070|Silent Docking Operation|4|2025-10-20|2 days|6100
+CM071|Kaizo|Beast Pirates|MIS071|Island Roaring Contest|3|2025-10-21|1 day|4000
+CM072|Tama|Wano Rebels|MIS072|Kibi Dango Distribution|1|2025-10-22|1 day|2000
+CM044|Charlotte Smoothie|Big Mom Pirates|MIS073|Stealth Escape Route|2|2025-10-23|2 days|2900
+CM074|Kawamatsu|Nine Red Scabbards|MIS074|River Patrol Duty|2|2025-10-24|1 day|3200
+CM065|Ivankov|Revolutionary Army|MIS075|Shogunate Spy Removal|4|2025-10-25|3 days|6700
+CM044|Charlotte Smoothie|Big Mom Pirates|MIS076|Sky Island Search|4|2025-01-1|2 days|5100
+CM016|Portgas D. Ace|Whitebeard Pirates|MIS077|Support Peace|3|2025-07-2|1 day|4300
+CM073|Shinobu|Blackbeard Pirates |MIS078|Become the Pirate King|5|2025-07-3|3 days|6200
+CM079|Princess Linlin|Big Mom Pirates|MIS079|Create Totto Land|2|2025-07-4|1 day|2600
+CM060|Illari|Thriller Bark Pirates|MIS080|Create World of Violence|3|2025-07-5|1 day|3100
+CM071|Kaizo|Whitebeard Pirates|MIS081|Island Roaring Contest|2|2025-07-6|2 days|2800
+CM082|Trafalgar D. Water Law|Heart Pirates|MIS082| Overthrow Doflamingo|4|2025-07-7|2 days|4700
+CM065|Ivankov|Revolutionary Army|MIS083|Challenge Yonko|3|2025-07-8|1 day|3500
+CM064|Rika|Buggy Pirates|MIS084|Bible Shield Test |1|2025-07-9|1 day|2000
+CM085|Buggy|Cross Guild|MIS085|Placing Bounties|4|2025-07-10|2 days|4800
+CM086|Gol D. Robert|Roger Pirates|MIS086|Discover the Island|5|2025-07-11|2 days|9600
+CM071|Kaizo|Rocks Pirates|MIS087|Island Roaring Contest|4|2025-07-12|3 days|7200
+CM073|Shinobu|Kuja Pirates|MIS088|Protect Amazon Lily|5|2025-07-13|1 day|5600
+CM089|Fisher Tiger|Sun Pirates|MIS089| Free Fish-Men|3|2025-07-14|2 days|4300
+CM090|Gemini Doflamingo|Donquixote Pirates|MIS090|Control the Underworld|2|2025-07-15|1 day|3100
+CM083|Eustass Ace|Fire Tank Pirates|MIS090|Challenge Yonko|1|2025-07-16|2 days|2900
+CM092|Basil Hawkins|Hawkins Pirates|MIS091|Survive using fate|3|2025-07-17|2 days|4100
+CM065|Ivankov|Revolutionary Army|MIS093|Gain Influence|2|2025-08-01|1 day|2700
+CM094|X Drake|Drake Pirates|MIS094|Spy the Marines|4|2025-08-02|2 days|5200
+CM082|Trafalgar D. Water Law|Heart  Pirates|MIS095|Make Ace Famous|3|2025-08-03|1 day|3900
+CM096|Shrek| Caribou Pirates|MIS096|Gain Infamy|5|2025-08-04|3 days|10000
+CM097|Gecko Mario|Thriller Bark Pirates|MIS097|Create Immortal|4|2025-08-05|2 days|8700
+CM077|Shanks|Red-Haired Pirates|MIS098|Defeat Davy Back Fight|4|2025-08-06|2 days|8200
+CM064|Rika|Bellamy Pirates|MIS099|Bible Shield Test|5|2025-08-07|1 day|9500
+CM100|Yorki|Rumba Pirates|MIS100|Sail the Grand Line|3|2025-08-08|1 day|6600
